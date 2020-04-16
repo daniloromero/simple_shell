@@ -32,7 +32,6 @@ int main(int ac, __attribute__((unused))char **av)
 
 	if (ac != 1)
 	{
-/**		print_error_main(av);*/
 		exit(127);
 	}
 	signal(SIGINT, myhandler);
