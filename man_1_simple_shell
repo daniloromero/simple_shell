@@ -1,0 +1,14 @@
+.TH man 1 "15 April 2020" "HOLBERTON SCHOOL" "SIMPLE SHELL"
+.SH NAME
+.B Simple Shell
+- command line interpreter
+.SH SYNOPSIS
+.B $ [command] -[options] [arguments]
+.sp
+.SH DESCRIPTION
+Simple Shell is a personal version of the Unix shell.
+.SH BUGS
+
+.SH AUTHORS
+Danilo Romero. 
+
